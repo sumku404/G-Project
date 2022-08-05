@@ -562,9 +562,19 @@ Oct 5, 2022
 
 Prepared by: Elias Everett
 
+Ying-Kang Wire Mesh Product.
 
 
-As of this date, I've learnt
+
+As of this date, rolling in a new field, mesh products, that's interesting. I've learnt some new knowledge:
+
+- What's the Wire Mesh and what's it made.
+
+- Products: Anti Climb Fence, Chain Link Fence, Removable Fence(or we'd call Canada Fence), Crowd Control Fence, etc. And the applications of these products are so wide. It's been everywhere in our lives.
+
+- How to use git (an open software) with remote work.
+
+- What is finishing (Surface Treatment) and how does it work.
 
 
 
