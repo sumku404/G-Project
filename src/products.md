@@ -1,3 +1,7 @@
+---
+
+---
+
 [TOC]
 
 ## Keywords
@@ -42,10 +46,10 @@
 
 ### 3D Panel Fence
 
-<img alt="3D Panel Fence" src="https://www.wiremeshfence.com/photo/ps18590708-3d_mesh_fence_panels_used_nylofor_3d_fence_with_powder_painted_smooth_surface_2030mm_x_2500mm.jpg" style="display: block; margin: 0 auto;" width="300"/>
+<img title="" src="https://th.bing.com/th/id/R.29983d3a0ad714319cec8fcbb952fa2a?rik=7MGqY%2f0f6XLftQ&riu=http%3a%2f%2fjlrnrwxhoqqj5p.ldycdn.com%2fcloud%2fipBoqKjiSRlipqirkn%2fHTB1_i6zNX.jpg&ehk=3hAhvVVjX1hPQD2KB4iaHSZyysv%2f6zwuEMeCHNIimmo%3d&risl=&pid=ImgRaw&r=0" alt="3D Panel Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 - **Alias:** 3D Triangle Fence, 3D Curved Fence, 3D Curvy Fence, 3D V Fence, V Panel Fence  
-- **Usage:** Garden Fence, HighwayFence, Sport Fence, Farm Fence, Supermarket etc. **Multifuctions**
+- **Usage:** Garden Fence, HighwayFence, Sport Fence, Farm Fence, Supermarket etc.**Multifuctions**
 - **Surface Treatment:** Hot dip galvanized(Zinc), Powder coated, PVC Coated
 
 > What is *PVC coated*?  
@@ -60,26 +64,26 @@
 
 ### Double Wire Fence
 
-<img alt="Double Wire Fence" src="https://kimmu.com.my/wp-content/uploads/2018/04/IMG_2294.jpg" style="display: block; margin: 0 auto;" width="300"/>
+<img title="" src="https://kimmu.com.my/wp-content/uploads/2018/04/IMG_2294.jpg" alt="Double Wire Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 - **Alias:** 2D Fence, Twin Wire Fence
 - **Usage:** Highway Fence, Railway Fence, Airport Fence, Port Fence, Garden Fence, .etc **customized**
 - **Wire Diameter:** 6/5/6mm, 8/6/8mm
-- **Opening Size \ Aperture:** 50*200mm
+- **Opening Size / Aperture:** 50\*200mm
 - **Height:** 1.03/1.23/1.43/1.63/1.83/2.03m
 - **Width:** 2.5m
-- **Surface Treatment:** Hot dip galvanized(Zinc), Powder coated
+- **Surface Treatment:** Hot dipped galvanized(Zinc), Powder coated
 
 ---
 
 ### Roll Top Triangle Fence
 
-<img alt="Roll Top Fence" src="https://s.alicdn.com/@sc02/kf/HTB1Ev7aKf9TBuNjy1zbq6xpepXa2/204980290/HTB1Ev7aKf9TBuNjy1zbq6xpepXa2.jpg?quality=close" style="display: block; width:500px; margin: 0 auto;"width="300"/>
+<img title="" src="https://s.alicdn.com/@sc02/kf/HTB1Ev7aKf9TBuNjy1zbq6xpepXa2/204980290/HTB1Ev7aKf9TBuNjy1zbq6xpepXa2.jpg?quality=close" alt="Roll Top Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 - **Alias:** Roll Top Triangle Fence
 - **Usage:** Highway Fence, Railway Fence, Airport Fence, Port Fence, Garden Fence, .etc **customized**
 - **Wire Diameter:** 5mm
-- **Opening Size \ Aperture:** 50*150mm
+- **Opening Size / Aperture:** 50*150mm
 - **Height:** 1.2/1.5/1.8/2.0m
 - **Width:** 2.4m
 - **Surface Treatment:** Hot dip galvanized(Zinc), Powder coated
@@ -88,11 +92,11 @@
 
 ### 358 Fence
 
-<img alt="358 Anti climb Fence" src="https://kimmu.com.my/wp-content/uploads/2018/04/C5.jpg" style="display: block; width:500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://kimmu.com.my/wp-content/uploads/2018/04/C5.jpg" alt="358 Anti climb Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 #### Why'd people call this 358 Fence?
 
-> A: cuz its span is 3 inches, aperture is 0.5 inch and using 8th gauge wire.
+> A: because its span is 3 inches, aperture is 0.5 inch and using 8th gauge wire.
 
 - **Alias:** Anti climb Fence, Anti Cutting Fence, Security Fence  
 - **Usage:** Garden Fence, Anti-thief, Airport, Prison, Army
@@ -107,11 +111,11 @@
 
 ### Chain link Fence
 
-<img alt="358 Anti climb Fence" src="https://ts1.cn.mm.bing.net/th/id/R-C.f264c36ce96bd2a4d67bb8bb29485d1f?rik=DeKOG%2fJ2BwpF8A&pid=ImgRaw&r=0" style="display: block; width:500px; margin: 0 auto;"width="300"/>
+<img title="" src="https://ts1.cn.mm.bing.net/th/id/R-C.f264c36ce96bd2a4d67bb8bb29485d1f?rik=DeKOG%2fJ2BwpF8A&pid=ImgRaw&r=0" alt="358 Anti climb Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 - **Usage:** Farm, Freeway, Highway
 - **Wire Diameter:** 2-4mm
-- **Opening Size \ Aperture:** 25\*25mm, 50\*50mm, 60\*60mm, 80\*80mm
+- **Opening Size / Aperture:** 25\*25mm, 50\*50mm, 60\*60mm, 80\*80mm
 - **Surface Treatment:** Hot dip galvanized(Zinc), Electronic Galvanized(Zinc)
 - **Height:** 1.5/1.8/2.0m **(customized)**
 - **Length:** 10/15/20/30m (For moving convenience, the weight is generally **no more than 60kg/roll**)
@@ -121,31 +125,30 @@ Post: (Only Round Post)
 - **OB:** **Φ48mm(Normal)**/Φ60mm/Φ75mm/Φ100mm
 - **Wall thickness:** 1.5/2.0/2.5/3.0mm **(costomized)**
 - **Length:** It's 500-1000mm higher than the mesh panel
-- **Surface Treatment:** Powder Coated, Hot dip Coated, using Galvanized steel tube **(More cheper)**
+- **Surface Treatment:** Powder Coated, Hot dipped Coated, using Galvanized steel tube **(More cheper)**
 
 > In some cases, Post is called ***Column***, ***Pole***.
 
-Installing:
-
-1. Lacing Wire
-2. Top Horizontal Rail
-3. 2(double) Horizontal Rails
-4. Barbed Wire Arm
+- Installing:
+  1. Lacing Wire
+  2. Top Horizontal Rail
+  3. 2(double) Horizontal Rails
+  4. Barbed Wire Arm
 
 Accessories (Fittings):
 
-<img title="" src="https://spauldingfencesupply.com/wp-content/uploads/2014/03/fittings-List.jpg" alt="accessories" style="width: 40%; display: block; margin: 0 auto;" width="554">
+<img title="" src="https://spauldingfencesupply.com/wp-content/uploads/2014/03/fittings-List.jpg" alt="accessories" style="width: 40%; display: block; margin: 0 auto;" width="550px" data-align="center">
 
 ---
 
 ### Holland Fence
 
-<img alt="Holland Fence" src="https://www.walcoom.com/img/pro/eurohollandfence/euro-fence-highway.jpg" style="display: block; width:500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://www.walcoom.com/img/pro/eurohollandfence/euro-fence-highway.jpg" alt="Holland Fence" style="display: block; margin: 0 auto;" width="" data-align="center">
 
 - **Alias:** Euro Fence
 - **Usage:** Farm, Freeway, Highway
 - **Wire Diameter:** 2.5-3.0mm
-- **Opening Size \ Mesh:** 50\*50mm, 50\*75mm, 50\*100mm
+- **Opening Size / Mesh:** 50\*50mm, 50\*75mm, 50\*100mm
 - **Surface Treatment:** Pre-galvanized wire, PVC-coated.
 - **Height:** 1.0/1.2/1.5/1.8/2.0m **(customized)**
 - **Length:** 25m
@@ -153,7 +156,7 @@ Accessories (Fittings):
 
 Post:
 
-<img alt="Holland Fence Post" src="https://www.northlandfencemn.com/wp-content/uploads/2018/01/4-galvanized-chain-link-fence-corner-post.jpg" style="display: block; width:500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://www.northlandfencemn.com/wp-content/uploads/2018/01/4-galvanized-chain-link-fence-corner-post.jpg" alt="Holland Fence Post" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 1. Dovetail Column
 2. Round Column
@@ -169,7 +172,7 @@ Package:
 
 ### Temporary Fence
 
-<img alt="Temporary Fence" src="https://www.philspace.co.uk/wp-content/uploads/usedfencing.jpg" style="display: block; width:500px; margin: 0 auto;" width="300"/>
+<img title="" src="http://jlrnrwxhoqqj5p.ldycdn.com/cloud/ipBoqKjiSRlipqirkn/HTB1_i6zNX.jpg" alt="Temporary Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 A Temporary Fence contains ***Fence Panel***, ***Plastic Feet***, ***Clamps***, ***Brace/Support***, and reserving ***15cm*** up and down,prefering ***Austrlia***, ***NewZland***.
 
@@ -186,7 +189,7 @@ A Temporary Fence contains ***Fence Panel***, ***Plastic Feet***, ***Clamps***, 
 
 > Too often, Hot dipped galvanized material is more expensive than other treatments. When hot dipped galvanizing, the tube must be some holes to prevent exploding.
 
-<img alt="Temporary Fence" src="https://s1.328888.xyz/2022/08/05/jRxrX.jpg" style="display: block; width:500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://s1.328888.xyz/2022/08/05/jRxrX.jpg" alt="Temporary Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 - **Feet Size:**
   - Old Type:
@@ -198,14 +201,13 @@ A Temporary Fence contains ***Fence Panel***, ***Plastic Feet***, ***Clamps***, 
       - 610\*230\*150mm (Weight: about ***28-29kg***)
 
 **Accessory:** *Brace(s)*
-<img alt="temporary-fence-braces" src="https://s1.328888.xyz/2022/08/05/jAwMP.png" style="display: block; width:500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://s1.328888.xyz/2022/08/05/jAwMP.png" alt="temporary-fence-braces" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 ---
 
 ### CA Portable Fence
 
-<img alt="Portable Fence" src="https://s1.328888.xyz/2022/08/05/jns9y.png
-" style="display: block; width:500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://s1.328888.xyz/2022/08/05/jns9y.png" alt="Portable Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 - **Alias:** (CA) Portable Fence, Removable Fence
 - **Size (Common Size):** 6ft\*10ft, 6ft\*9.5ft
@@ -218,8 +220,7 @@ A Temporary Fence contains ***Fence Panel***, ***Plastic Feet***, ***Clamps***, 
   - Pre-galvanized wire/tube + Welded + Powder Coated.
   - Black Wire/Tube + Welded + Hot dipped galvanized **(Black Wire/or tube is raw steel)**.
 
-<img alt="portable-fence-fittings" src="https://s1.328888.xyz/2022/08/04/jMnIX.png
-" style="display: block; width: 500px; margin: 0 auto;" width="300"/>
+<img alt="portable-fence-fittings" src="https://s1.328888.xyz/2022/08/04/jMnIX.png" style="display: block; margin: 0 auto;" width="500px"/>
 
 - **Feet Size:**
   - 600\*100\*8mm
@@ -229,11 +230,11 @@ A Temporary Fence contains ***Fence Panel***, ***Plastic Feet***, ***Clamps***, 
 
 ### Temporary Chain link Fence
 
-<img alt="Temporar-chain-link-fence" src="https://tse4-mm.cn.bing.net/th/id/OIP-C.Zzsr-KPaU5_cju4UInDGSgHaFS?pid=ImgDet&rs=1" style="display: block; width: 500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://tse4-mm.cn.bing.net/th/id/OIP-C.Zzsr-KPaU5_cju4UInDGSgHaFS?pid=ImgDet&rs=1" alt="Temporar-chain-link-fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 - **Alias:** Removable Chain link Fence
-- **Width:** 9.5ft/10ft/12(ft)
-- **Height:**  6/8(ft)
+- **Width:** 9.5ft/10ft/12ft
+- **Height:**  6/8ft
 - **Wire Diameter:** 3.0mm, 3.2mm, 3.5mm **(Most popular)**
 - **Opeing Size:** 50\*50mm, 60\*60mm, 80\*80mm
 - **Frame(Pickety) OD (Outer Diameter):** <span style="color:red">**(Circle)**</span> Φ32mm/Φ38mm/Φ40mm/Φ42mm
@@ -243,16 +244,16 @@ A Temporary Fence contains ***Fence Panel***, ***Plastic Feet***, ***Clamps***, 
   - **(Black tube/Raw steel)** Hot dipped galvanized **after welding**
 - **Feet Size:** 450\*600\*150mm
 
-<img alt="Temporar-chain-link-fence" src="https://s1.328888.xyz/2022/08/04/jfDiB.jpg" style="display: block; width: 500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://s1.328888.xyz/2022/08/04/jfDiB.jpg" alt="Temporar-chain-link-fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 Clamps：
-<img alt="Temporar-chain-link-fence" src="https://s1.328888.xyz/2022/08/04/jfOhR.png" style="display: block; width: 500px; height: 400px; margin: 0 auto;" width="300"/>
+<img title="" src="https://s1.328888.xyz/2022/08/04/jfOhR.png" alt="Temporar-chain-link-fence" style="display: block; margin: 0 auto;" width="454" data-align="center">
 
 ---
 
 ### Crowd Control Barrier
 
-<img alt="Temporar-chain-link-fence" src="https://s1.328888.xyz/2022/08/05/jpWwE.png" style="display: block; width: 500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://s1.328888.xyz/2022/08/05/jpWwE.png" alt="Temporar-chain-link-fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 - **Alias:** Pedestrian Barrier
 - **Width:** 2.0/2.2/2.5m
@@ -267,7 +268,7 @@ Clamps：
   - **(Black Wire/Tube)** Hot Dipped galvanized **after welding**
 - **Feet Type:** ***Bridge***, ***Flat***, ***Cross***
 
-<img alt="Temporar-chain-link-fence" src="https://s1.328888.xyz/2022/08/05/jp6or.jpg" style="display: block; width: 500px; margin: 0 auto; padding-bottom: 10px;" width="300"/>
+<img title="" src="https://s1.328888.xyz/2022/08/05/jp6or.jpg" alt="Temporar-chain-link-fence" style="display: block; margin: 0 auto; padding-bottom: 10px;" width="500px" data-align="center">
 
 > For more firm, the infill pickets are fully welded.
 
@@ -275,7 +276,7 @@ Clamps：
 
 ### Iron Fence
 
-<img alt="Temporar-chain-link-fence" src="https://lirp.cdn-website.com/8f3e9c05/dms3rep/multi/opt/GettyImages-1057248430-1920w.jpg" style="display: block; width: 500px; margin: 0 auto;" width="300"/>
+<img title="" src="https://lirp.cdn-website.com/8f3e9c05/dms3rep/multi/opt/GettyImages-1057248430-1920w.jpg" alt="Temporar-chain-link-fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
 - **Alias:** Steel Fence, Metal Fence, Wrought Iron Fence
 - **Panel Size:** 1.8\*2.4m(6ft\*8ft), 2.1\*2.4m(7ft\*8ft), 2.4\*2.4m(8ft\*8ft)
@@ -287,11 +288,11 @@ Clamps：
 
 **Accessories (Fittings):** *Clips*, *Bolts&Nuts*
 
-<img alt="Temporar-chain-link-fence" src="https://s1.328888.xyz/2022/08/05/jnOzK.png" style="display: block; width: 500px; margin: 0 auto; padding-bottom: 10px" width="300"/>
+<img title="" src="https://s1.328888.xyz/2022/08/05/jnOzK.png" alt="Temporar-chain-link-fence" style="display: block; margin: 0 auto; padding-bottom: 10px" width="500px" data-align="center">
 
 Toppers:
 
-<img alt="Temporar-chain-link-fence" src="https://s1.328888.xyz/2022/08/05/jYego.png" style="display: block; width: 500px; margin: 0 auto; padding-bottom: 10px" width="300"/>
+<img title="" src="https://s1.328888.xyz/2022/08/05/jYego.png" alt="Temporar-chain-link-fence" style="display: block; margin: 0 auto; padding-bottom: 10px" width="500px" data-align="center">
 
 > Iron Fence has a polishing process when exported.
 
@@ -406,9 +407,18 @@ Example:
 
 ```text
 Hi, [name]  
-    I'm so glad to hear you're in the market for Mesh Product. I'd like to take this opportunity to introduce our company and product, with the hope that we may work together in the future.This is Elias from Ying Kang Wire Mesh Product Co., Ltd, which has specializing in Wire Mesh Products for 27 years. I'd like to introduce this item to you, [Product name], and its features have [...].
+    I'm so glad to hear you're in the market for Mesh Product.
 
-    if you want to know more details about our products, please contact with me, looking forward to work with you on this.
+    I'd like to take this opportunity to introduce our company and
+    product,with the hope that we may work together in the future.
+
+    This is Elias from Ying Kang Wire Mesh Product Co., Ltd, 
+    which has specializing in Wire Mesh Products for 27 years. 
+    I'd like to introduce this item to you, [Product name], 
+    and its features have [...].
+    
+    if you want to know more details about our products, 
+    please contact with me, looking forward to work with you on this.
 
 
     Best Regards,
@@ -424,7 +434,10 @@ or
 
 ```text
 Dear Sir/Madam,
-    [Company name] trading is here, exporting [Product name] with good quality and factory price in China, its features have [...], keeping hope to open a business relationship with you.  
+    [Company name] trading is here, exporting [Product name]
+    with good quality and factory price in China, its features have
+    [...],
+    keeping hope to open a business relationship with you.  
 
 Regards,  
 Elias Everett.
@@ -437,7 +450,9 @@ with Social Media Link
 
 ```text
 Hello,
-    This is Elias from Ying Kang Wire Mesh Product., Ltd in China. Ying Kang started manufacturing Wire Mesh in the year 1995, which has over 1000+ products up to now, including [Product name]...
+    This is Elias from Ying Kang Wire Mesh Product., Ltd in China.
+    Ying Kang started manufacturing Wire Mesh in the year 1995,
+    which has over 1000+ products up to now, including [Product name]...
 
     Of course, Free samples can be sent on request.
 
@@ -554,8 +569,6 @@ Telegram: [link]
 97. LINK8848 <http://www.link8848.com>
 98. GO4WORLDBUSINESS <http://www.go4worldbusiness.com/>
 
-
-
 ### Work Report
 
 Oct 5, 2022
@@ -563,8 +576,6 @@ Oct 5, 2022
 Prepared by: Elias Everett
 
 Ying-Kang Wire Mesh Product.
-
-
 
 As of this date, rolling in a new field, mesh products, that's interesting. I've learnt some new knowledge:
 
@@ -575,9 +586,5 @@ As of this date, rolling in a new field, mesh products, that's interesting. I've
 - How to use git (an open software) with remote work.
 
 - What is finishing (Surface Treatment) and how does it work.
-
-
-
-
 
 [@author](./) Elias Everett
