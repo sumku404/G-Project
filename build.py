@@ -1,4 +1,3 @@
-
 import pdfkit
 import markdown
 import os

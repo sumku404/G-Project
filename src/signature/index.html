@@ -5,35 +5,90 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
         <style>
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+        }
+
+        /**
+         * We use auto-fit keywords to indicate flexible columns, and let minmax() function decide
+         * how many columns will be showed depending on current page size.
+         * 
+         */
+
         .container {
+            width: 100%;
             display: grid;
-            background-color: blueviolet;
-            grid-template-columns: 60% 40%;
-            grid-template-rows: repeat(5, 20%);
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* decleared columns size */
+            grid-template-rows: repeat(5, 20%); /* decleared rows size */
+            column-gap: 10px; /* the gutter between columns */
+        
         }
 
         .img-area {
+
+            /* grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 1;
+            grid-row-end: 6; */
+
+            
+            /* Shortcuts */
+            /* grid-column: 1 / 2;
+            grid-row: 1 / 6; */
+            
+            /* grid-area: <row-start> / <column-start> / <row-end> / <column-end> */
+            grid-area: 1 / 1 / 6 / 2 ;
+
+            align-self: center;
+            justify-self: center;
         }
 
         .desc-area {
-            
+            grid-area: 1 / 2 / 6 / auto;
+            align-self: center;
+            justify-self: start;
+        }
+        .shadow {
+            box-shadow: 10px 5px 6px #d8d8d8;
         }
 
-        .red {
-            background-color: red;
+        .title {
+            font-weight: bold;
         }
 
-        .black {
-            background-color: black;
+        .title-desc {
+            font-weight: lighter;
+            font-size: 10pt;
+            padding-left: 20px;
+            color: #7c7c7c;
+        }
+
+        .whatsapp_icon {
+
+        }
+
+        .telegram_icon {
+
+        }
+
+        .cellphone_icon {
+
+        }
+
+        .address_icon {
+
         }
     </style>
     </head>
     <body>
-        <div class="container">
-            <div class="img-area red">
+        <div class="container shadow">
+            <div class="img-area">
+                <!-- Company Logo SVG  -->
                 <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg"
-                    xmlns:xlink="http://www.w3.org/1999/xlink" width="400"
-                    height="172.71301620491377" viewBox="0, 0,
+                    xmlns:xlink="http://www.w3.org/1999/xlink" width="200px"
+                    height="173" viewBox="0, 0,
                     400,172.71301620491377"><g id="svgg"><path id="path0"
                             d="M84.074 14.651 C 84.136 14.753,84.427
                             14.951,84.719 15.093 C 85.212 15.331,85.226
@@ -1162,7 +1217,30 @@
                             17.406 110.381,17.372 110.513,17.372 110.833 "
                             stroke="none" fill="#c96212" fill-rule="evenodd"></path></g></svg>
             </div>
-            <div class="desc-area black">s</div>
+            <div class="desc-area">
+                <p class="title">
+                    Ying Kang Wire Mesh Products.<br/>
+                    <span class="title-desc">A company</span>
+                </p>
+                <ul>
+                    <li>
+                        <span class="whatsapp_icon"></span>
+                        WhatsApp: +1 (000)-000-0000
+                    </li>
+                    <li>
+                        <span class="telegram_icon"></span>
+                        Telegram: +1 (000)-000-0000
+                    </li>
+                    <li>
+                        <span class="cellphone_icon"></span>
+                        Phone: +1 (000)-000-0000</li>
+                    <li>
+                        <span class="address_icon"></span>
+                        Address: +1 (000)-000-0000
+                    </li>
+                </ul>
+            </div>
         </div>
+        <script src="./src/js/main.js"></script>
     </body>
 </html>
