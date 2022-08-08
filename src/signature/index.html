@@ -1,17 +1,16 @@
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <!-- import Google fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link
-            href="https://fonts.googleapis.com/css2?family=Inspiration&family=Montserrat:wght@300;500&display=swap"
-            rel="stylesheet">
-        <title>Document</title>
-        <style>
 
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- import Google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inspiration&family=Montserrat:wght@300;500&display=swap"
+        rel="stylesheet">
+    <title>Document</title>
+    <style>
         * {
             box-sizing: border-box;
             margin: 0;
@@ -28,13 +27,15 @@
         .container {
             width: 100%;
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(260px, 2fr)); /* decleared columns size */
+            grid-template-columns: repeat(auto-fit, minmax(260px, 2fr));
+            /* decleared columns size */
             /*grid-template-rows: repeat(5, 20%); /* decleared rows size */
-            column-gap: 10px; /* the gutter between columns */
-        
+            column-gap: 10px;
+            /* the gutter between columns */
+
         }
 
-        .container > * {
+        .container>* {
             margin: 10px 5px;
         }
 
@@ -45,11 +46,11 @@
             grid-row-start: 1;
             grid-row-end: 6; */
 
-            
+
             /* Shortcuts */
             /* grid-column: 1 / 2;
             grid-row: 1 / 6; */
-            
+
             /* grid-area: <row-start> / <column-start> / <row-end> / <column-end> */
             /* grid-area: 1 / 1 / 6 / 2 ; */
 
@@ -100,9 +101,10 @@
             color: #dfffff;
             transition: 0.4s;
             padding: 8px;
-            box-shadow: 2px 6px 13px 8px rgba(0,0,0,0.04);
-            -webkit-box-shadow: 2px 6px 13px 8px rgba(0,0,0,0.04);
-            -moz-box-shadow: 2px 6px 13px 8px rgba(0,0,0,0.04);;
+            box-shadow: 2px 6px 13px 8px rgba(0, 0, 0, 0.04);
+            -webkit-box-shadow: 2px 6px 13px 8px rgba(0, 0, 0, 0.04);
+            -moz-box-shadow: 2px 6px 13px 8px rgba(0, 0, 0, 0.04);
+            ;
         }
 
         .btn:hover {
@@ -111,9 +113,9 @@
         }
 
         .whatsapp {
-            background-color: 	#25D366
+            background-color: #25D366
         }
-        
+
         .telegram {
             background-color: #34B7F1;
         }
@@ -159,38 +161,36 @@
                 font-size: 20pt;
             }
         }
-
-
-
-        
     </style>
-    </head>
-    <body>
-        <div class="container shadow">
-            <div class="img-area">
+</head>
 
-                <div class="signature">
-                    Best Regards,<br/>
-                        <span class="signature-written">Elias Everett</span>
-                        <span>(Elias Everett)</span>
-                    </div>
+<body>
+    <div class="container">
+        <div class="img-area">
 
-                    <!-- Company Logo SVG  -->
-                    <img src="https://s1.328888.xyz/2022/08/08/0ByVk.png" width="200px"/>
-                </div>
-                <div class="desc-area">
-                    <p class="title"> Yingkang Wire Mesh Product Co.,Ltd<br />
-                        <span
-                            class="title-desc">A wire mesh manufacturer and
-                            exporter
-                            in China.</span> </p>
-                    <ul class="details">
-                        <li>
-                            <svg t="1659921423709" class="icon" viewbox="0 0
-                                1024 1024" version="1.1"
-                                xmlns="http://www.w3.org/2000/svg" p-id="2389"
-                                width="200" height="200">
-                                <path d="M511.872427
+            <!-- Adding personal signature -->
+            <div class="signature">
+                Best Regards,<br />
+                <span class="signature-written">Elias Everett</span>
+                <span>(Elias Everett)</span>
+            </div>
+
+            <!-- Company Logo SVG  -->
+            <img src="https://s1.328888.xyz/2022/08/08/0ByVk.png" width="200px" />
+        </div>
+        <div class="desc-area">
+            <p class="title"> Yingkang Wire Mesh Product Co.,Ltd<br />
+                <span class="title-desc">A wire mesh manufacturer and
+                    exporter
+                    in China.</span>
+            </p>
+            <ul class="details">
+                <li>
+                    <svg t="1659921423709" class="icon" viewbox="0 0
+                                1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2389" width="200"
+                        height="200">
+                        <path
+                            d="M511.872427
                                     0h0.256C794.45376 0 1024.000427 229.674667
                                     1024.000427 512s-229.589333 512-511.872
                                     512c-104.106667
@@ -220,15 +220,15 @@
                                     7.424-8.576 11.52-13.013333
                                     16.298666-23.082667 5.034667-9.770667
                                     1.493333-19.84-2.090666-27.221333-3.541333-7.381333-33.194667-79.573333-45.354667-108.8z"
-                                    fill="#25D366" p-id="2390"></path>
-                            </svg> WhatsApp: <span id="whatsapp_num">+1
-                                (000)-000-0000</span></li>
-                        <li>
-                            <svg t="1659921521839" class="icon" viewbox="0 0
-                                1024 1024" version="1.1"
-                                xmlns="http://www.w3.org/2000/svg" p-id="3298"
-                                width="200" height="200">
-                                <path d="M679.424
+                            fill="#25D366" p-id="2390"></path>
+                    </svg> WhatsApp: <span id="whatsapp_num">+1
+                        (000)-000-0000</span>
+                </li>
+                <li>
+                    <svg t="1659921521839" class="icon" viewbox="0 0
+                                1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3298" width="200"
+                        height="200">
+                        <path d="M679.424
                                     746.862l84.005-395.996c7.424-34.852-12.581-48.567-35.438-40.009L234.277
                                     501.138c-33.72 13.13-33.134 32-5.706
                                     40.558l126.282 39.424
@@ -238,16 +238,15 @@
                                     25.71-12.581l61.696-59.429 128 94.282c23.442
                                     13.129 40.01 6.29 46.3-21.724zM1024 512c0
                                     282.843-229.157 512-512 512S0 794.843 0 512
-                                    229.157 0 512 0s512 229.157 512 512z"
-                                    fill="#1296DB" p-id="3299"></path>
-                            </svg> Telegram: <span id="telegram_num">+1
-                                (000)-000-0000 </span></li>
-                        <li>
-                            <svg t="1659921558813" class="icon" viewbox="0 0
-                                1024 1024" version="1.1"
-                                xmlns="http://www.w3.org/2000/svg" p-id="4229"
-                                width="200" height="200">
-                                <path d="M682.666667
+                                    229.157 0 512 0s512 229.157 512 512z" fill="#1296DB" p-id="3299"></path>
+                    </svg> Telegram: <span id="telegram_num">+1
+                        (000)-000-0000 </span>
+                </li>
+                <li>
+                    <svg t="1659921558813" class="icon" viewbox="0 0
+                                1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4229" width="200px"
+                        height="200px">
+                        <path d="M682.666667
                                     768 298.666667 768 298.666667 170.666667
                                     682.666667 170.666667M490.666667
                                     938.666667C455.253333 938.666667 426.666667
@@ -265,13 +264,13 @@
                                     933.546667 768 874.666667L768 149.333333C768
                                     90.453333 720.213333 42.666667 661.333333
                                     42.666667Z" p-id="4230" fill="#2c2c2c"></path>
-                            </svg> Phone: <span id="phone_num">+1 (000)-000-0000</span></li>
-                        <li>
-                            <svg t="1659922031625" class="icon" viewbox="0 0
-                                1024 1024" version="1.1"
-                                xmlns="http://www.w3.org/2000/svg" p-id="5582"
-                                width="200" height="200">
-                                <path d="M514.972
+                    </svg> Phone: <span id="phone_num">+1 (000)-000-0000</span>
+                </li>
+                <li>
+                    <svg t="1659922031625" class="icon" viewbox="0 0
+                                1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5582" width="200"
+                        height="200">
+                        <path d="M514.972
                                     90.125c-170.438 0-314.793 147.326-314.793
                                     321.801 0 182.691 167.319 369.563 279.833
                                     500.894 0.441 0.55 18.636 21.057 41.05
@@ -292,21 +291,36 @@
                                     0-105.138-48.46-105.138-106.606 0-58.182
                                     46.626-105.469 103.929-105.469 57.302 0
                                     103.929 47.287 103.929 105.469 0.037
-                                    58.146-45.379 106.606-102.718 106.606z"
-                                    p-id="5583"></path>
-                            </svg> Address: <span id="company_address">No. 1,
-                                Anhua
-                                Road, Anping County, Hebei
-                                Province, China</span></li>
-                    </ul>
-                    <!-- adding some clickable buttons for social media -->
-                    <div class="click_links">
-                        <p class="click_links_header">Chat with me!</p>
-                        <button class="btn whatsapp"> WhatsApp </button>
-                        <button class="btn telegram"> Telegram </button>
-                    </div>
-                </div>
+                                    58.146-45.379 106.606-102.718 106.606z" p-id="5583"></path>
+                    </svg> Address: <span id="company_address">No. 1,
+                        Anhua
+                        Road, Anping County, Hebei
+                        Province, China</span>
+                </li>
+            </ul>
+            <!-- adding some clickable buttons for social media -->
+            <div class="click_links">
+                <p class="click_links_header">Chat with me!</p>
+                <button class="btn whatsapp"> WhatsApp </button>
+                <button class="btn telegram"> Telegram </button>
             </div>
         </div>
-    </body>
+    </div>
+    </div>
+    <script>
+        let buttons = [document.querySelector('.whatsapp'), document.querySelector('.telegram')]
+        buttons.forEach(item => {
+            if (item.classList.contains('whatsapp')) {
+                item.addEventListener('click', (env) => {
+                    window.location.href = "https://www.baidu.com";;
+                })
+            } else {
+                item.addEventListener('click', (env) => {
+                    window.location.href = "https://t.me/sumkux"
+                })
+            }
+        })
+    </script>
+</body>
+
 </html>
