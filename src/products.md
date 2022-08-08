@@ -1,7 +1,3 @@
----
-
----
-
 [TOC]
 
 ## Keywords
@@ -467,6 +463,70 @@ Social media is available now:
 WhatsApp: [link]
 Telegram: [link]
 ```
+
+## Terms
+
+### International Commercial Terms
+
+Incoterms, short for International Commercial Terms. Each Incoterms does one of two main things.
+
+- To determine at what point the responsibility and ownership for the shipment transfers from **the seller** to **the buyer**.
+
+- To determine who is **responsible for**, or who **pays for**, the transportation of the goods, import and export processes, insurance, loading and unloading, and the like.
+
+There're ***11*** Incoterms can be roughly divided into **three groups**:
+
+- First: EXW, FCA, FAS, FOB (It's **the buyer** who pays for the **shipping costs**, I could say they're **ideal** when we're negotiating)
+
+- Second: CFR, CIF, CPT, CIP (There're the terms under which **the seller pay the main shipping costs** and include them in their price. There's a point that the seller pays for shipping, **the goods travel at the buyer's risk,** so in general the buyer wanna investigate **insurance**.)
+
+- Third: DAT, DAP, DDP (Here, the shipping costs are paid by **the seller** and **the seller assumes all the travel risk**. In these cases, the seller will want to consider
+
+#### EXW
+
+EXW (EX works) is a shipping arrangement in which a seller makes a product available at a specific location, but the buyer has to pay the transport costs. 
+
+Once **the buyer have their goods**, then they have responsible for other risks, such as loading the goods onto trucks or container, transfering them to ship or plane and comply with costomes regulations.
+
+It's particularly good for the seller, but not so good for the buyer. In EXW, the seller is only required to safely package the goods, lable them appropriately, and deliver them to a previously agreed-upon location.
+
+#### FOB
+
+FOB (Free on board) is used to indicate whether the seller or the buyer is liable (Laws) for goods that are damaged or destroyed **during shipping**. 
+
+Definition: The seller must deliver the goods to the buyer before shipment date, and the seller has responsibile  for all the costs and risks (damaged or destroyed) until the cargo is on board. Loading costs are under these extended FOB term: ***FOB Liner terms***, ***FOB under tackle***, ***FOB stowed (FOBS)***, ***FOB trimmed (FOBT)***.
+
+- FOB Liner terms: The shipping costs are paid by the buyer.
+
+- FOB under tackle: The buyer paid the costs ever since the cargo was tackling.
+
+- FOB stowed (FOBS): The seller is in charge of loading and has the responsibility for the loading costs and included stowage costs.
+
+- FOB trimmed (FOBT): It's a little bit similar to FOBS, but the seller paid the loading costs and trimmed costs.
+
+#### FCA
+
+FCA (Free Carrier)
+
+#### CIF
+
+CIF (Cost, Insurance and Freight[transportation cost])
+
+#### CFR
+
+CFR (Cost and Freight)
+
+---
+
+### Terms for payment options
+
+Letters of credit
+
+> A letter of credit is issued from one bank to another bank (usually in another country) to guarantee that payments will be made to a party on time. (Include the correct amount, and other possibly specified conditions) Once get a letter of credit from buyer, you're sure you'll get paid.
+
+Credit insurance
+
+> 
 
 ## B2C Website
 
