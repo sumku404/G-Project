@@ -1,0 +1,75 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#f0f0f0">
+      <mj-column>
+        <mj-text align="center" font-style="italic" font-weight="bold" font-size="20px" color="#626262">Ying-kang Wire Mesh Product.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg" background-repeat="no-repeat" background-size="cover">
+      <mj-column width="600px">
+        <mj-text align="center" color="#fff" font-size="40px" font-family="Helvetica Nene">
+          Slogon here
+        </mj-text>
+        <mj-button background-color="#f63a4d" href="#">Promotion </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction -->
+    <mj-section background-color="#fafafa">
+      <mj-column width="400px">
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#626262">
+          This is our company introduction.
+        </mj-text>
+
+        <mj-text color="#525252">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+        </mj-text>
+
+        <mj-button background-color="#fe5e43" href="#">
+          Learn More
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Side Image -->
+    <mj-section background-color="white">
+      <!-- Left Image -->
+      <mj-column>
+        <mj-image width="200px" src="https://designspell.files.wordpress.com/2012/01/sciolino-paris-bw.jpg" alt="City" />
+      </mj-column>
+
+
+      <!-- Right paragraph -->
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262">
+          Find amazing places
+        </mj-text>
+        <mj-text color="#525252">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fbfbfb">
+        <mj-column>
+            <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0l.png" alt="" />
+        </mj-column>
+        <mj-column>
+            <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0l.png" alt="" />
+        </mj-column>
+        <mj-column>
+            <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0l.png" alt="" />
+        </mj-column>
+    </mj-section>
+
+    <!-- Icons -->
+    <mj-section background-color="#f0f0f0">
+      <mj-column>
+        <mj-social>
+          <mj-social-element name="facebook">
+            Share
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

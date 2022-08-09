@@ -97,7 +97,7 @@
 - **Alias:** Anti climb Fence, Anti Cutting Fence, Security Fence  
 - **Usage:** Garden Fence, Anti-thief, Airport, Prison, Army
 - **Wire Diameter:** 4mm
-- **Opening Size \ Aperture:** 76.2\*12.7mm, 75\*12.5mm
+- **Opening Size / Aperture:** 76.2\*12.7mm, 75\*12.5mm
 - **Surface Treatment:** Hot dip galvanized(Zinc), Powder coated, PVC Coated.
 - **Height:** ≤6m
 - **Width:** 2.515m
@@ -152,10 +152,9 @@ Accessories (Fittings):
 
 Post:
 
-<img title="" src="https://www.northlandfencemn.com/wp-content/uploads/2018/01/4-galvanized-chain-link-fence-corner-post.jpg" alt="Holland Fence Post" style="display: block; margin: 0 auto;" width="500px" data-align="center">
+**Dovetail Column**
 
-1. Dovetail Column
-2. Round Column
+<img title="" src="https://s1.328888.xyz/2022/08/09/0SOKs.png" alt="Holland Fence Post" style="display: block; margin: 0 auto;" width="520" data-align="center">
 
 > When connecting the pole, we'd use **Plastic Clip Connection**.
 
@@ -168,7 +167,7 @@ Package:
 
 ### Temporary Fence
 
-<img title="" src="http://jlrnrwxhoqqj5p.ldycdn.com/cloud/ipBoqKjiSRlipqirkn/HTB1_i6zNX.jpg" alt="Temporary Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
+<img title="" src="http://fencerentalcompany.com/wp-content/uploads/2020/01/Menorah-9.jpg" alt="Temporary Fence" style="display: block; margin: 0 auto;" width="" data-align="center">
 
 A Temporary Fence contains ***Fence Panel***, ***Plastic Feet***, ***Clamps***, ***Brace/Support***, and reserving ***15cm*** up and down,prefering ***Austrlia***, ***NewZland***.
 

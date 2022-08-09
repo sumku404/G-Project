@@ -1,0 +1,102 @@
+<mjml lang="en_US">
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="title" font-weight="bold" font-size="20px" />
+      <!-- <mj-all font-weight="bold" /> mj-all affects all MJML components -->
+    </mj-attributes>
+    <mj-breakpoint width="600px" />
+    <mj-font name="Inspiration" href="https://fonts.googleapis.com/css2?family=Inspiration&family=Montserrat:wght@300;500&display=swap" />
+    <mj-style>
+      .shadow td,
+      .shadow div {
+        box-shadow: 2px 6px 13px 8px rgba(0, 0, 0, 0.09) !important;
+      }
+    </mj-style>
+    <mj-title>This is a Title For MJML.</mj-title>
+
+  </mj-head>
+  <mj-body background-color="white">
+
+  <mj-hero  mode="fixed-height"
+      height="469px"
+      background-width="600px"
+      background-height="469px"
+      background-color="#2a3448"
+      padding="100px 0px" background-url="https://s1.328888.xyz/2022/08/05/jYego.png">
+    <mj-text padding="20px"
+        color="#ffffff"
+        font-family="Helvetica"
+        align="center"
+        font-size="45px"
+        line-height="45px"
+        font-weight="900">
+        GO TO SPACE
+    </mj-text>
+
+
+    <mj-button href="https://www.baidu.com">
+        CLICK HERE
+    </mj-button>
+  </mj-hero>
+
+    <mj-section>
+
+      <mj-column>
+        <mj-button css-class="shadow" border-radius="20px" background-color="#25D366" href="https://www.baidu.com">
+          Get in touch with me!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-carousel tb-border="2px solid" border-radius="20px">
+          <mj-carousel-image src="https://s1.328888.xyz/2022/08/05/jYego.png" />
+          <mj-carousel-image src="https://s1.328888.xyz/2022/08/05/jYego.png" />
+          <mj-carousel-image src="https://s1.328888.xyz/2022/08/05/jYego.png" />
+        </mj-carousel>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="red" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-group>
+        <mj-column width="50%">
+            <mj-image src="https://s1.328888.xyz/2022/08/05/jYego.png" alt="ees" />
+            <mj-text>
+                This is desc 1.
+            </mj-text>
+        </mj-column>
+
+        <mj-column width="50%">
+            <mj-image src="https://s1.328888.xyz/2022/08/05/jYego.png" alt="" />
+            <mj-text>
+                This is desc2.
+            </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="title">
+          Test title
+        </mj-text>
+        <mj-text font-family="Inspiration">
+          Noremal Text
+        </mj-text>
+        <mj-text css-class="shadow">
+          This is shadow Text.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
