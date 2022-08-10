@@ -503,17 +503,31 @@ Definition: The seller must deliver the goods to the buyer before shipment date,
 
 - FOB trimmed (FOBT): It's a little bit similar to FOBS, but the seller paid the loading costs and trimmed costs.
 
-#### FCA
+Total amount: Cost + Packing fee + Land freight(LCL, FCL) + Port surcharge
 
-FCA (Free Carrier)
+> **LCL (Less than container load)** means the volume of cargo is less than the capacity of container while **FCL (Full container load)** indicates the cargo is fully loaded on.
+
+Format: FOB [Origin] PRICE: USD [Amount]
+
+#### CNF/CFR
+
+CNF (Cost and Freight), in simplicity, is **FOB + Freight.** The buyer does take all the cost and risks before the cargo has arrived. Caution! There's **no insurance** in CNF.
+
+Format: CNF [destination] PRICE: USD [Amount]
 
 #### CIF
 
-CIF (Cost, Insurance and Freight[transportation cost])
+CIF (Cost, Insurance and Freight) is similar to CNF, which just adds the ***insurance***.
 
-#### CFR
+Format: CIF [destination] PRICE: USD [Amount]
 
-CFR (Cost and Freight)
+#### Door to Door(D2D)
+
+This term is against the personal buyer, the seller has responsibility for all the costs before the cargo has arrived in the buyer's hands.
+
+#### FCA
+
+FCA (Free Carrier)
 
 ---
 

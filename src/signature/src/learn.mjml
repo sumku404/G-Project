@@ -11,6 +11,10 @@
       .shadow div {
         box-shadow: 2px 6px 13px 8px rgba(0, 0, 0, 0.09) !important;
       }
+
+      .black a{
+        color : #ffffff !important;
+      }
     </mj-style>
     <mj-title>This is a Title For MJML.</mj-title>
 
@@ -38,6 +42,46 @@
         CLICK HERE
     </mj-button>
   </mj-hero>
+
+  <mj-section background-color="black">
+    <mj-column>
+      <mj-navbar css-class="black">
+        <mj-navbar-link href="./">
+          HOME
+        </mj-navbar-link>
+        <mj-navbar-link href="./">
+          PRODUCTS
+        </mj-navbar-link>
+        <mj-navbar-link href="./">
+          ABOUT US
+        </mj-navbar-link>
+      </mj-navbar>
+    </mj-column>
+  </mj-section>
+
+  <mj-section>
+    <mj-column>
+      <mj-social>
+        <mj-social-element name="twitter" href="https://www.baidu.com">
+          Share
+        </mj-social-element>
+      </mj-social>
+    </mj-column>
+
+    <mj-column background-color="black">
+    <mj-text>
+      test
+    </mj-text>
+    </mj-column>
+    <mj-column>
+      <mj-spacer height="20px" />
+    </mj-column>
+    <mj-column background-color="black">
+      <mj-text>
+        test2
+      </mj-text>
+    </mj-column>
+  </mj-section>
 
     <mj-section>
 

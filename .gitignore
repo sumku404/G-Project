@@ -8,3 +8,6 @@ download/**
 
 # Ignore vscode extensions folder
 .vscode
+
+# Ignore v2ray configuration file
+config.json

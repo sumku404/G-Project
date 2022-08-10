@@ -1,75 +1,79 @@
 <mjml>
-  <mj-body>
-    <mj-section background-color="#f0f0f0">
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="Montserrat" padding="0" />
+      <mj-class name="sub-title" padding-left="20px" font-size="14px" display="inline-block" color="#7c7c7c" />
+      <mj-class name="round" border-radius="20px" />
+    </mj-attributes>
+    <mj-font name="Inspiration" href="https://fonts.googleapis.com/css2?family=Inspiration&family=Montserrat:wght@300;500&display=swap" />
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Inspiration&family=Montserrat:wght@300;500&display=swap" />
+    <mj-style>
+      .shadow td{
+        box-shadow: 2px 6px 13px 8px rgba(0, 0, 0, 0.09) !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+
+    <!-- Company logo and Personal Signature -->
+    <mj-section padding="5px" padding-top="15px">
       <mj-column>
-        <mj-text align="center" font-style="italic" font-weight="bold" font-size="20px" color="#626262">Ying-kang Wire Mesh Product.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-url="https://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg" background-repeat="no-repeat" background-size="cover">
-      <mj-column width="600px">
-        <mj-text align="center" color="#fff" font-size="40px" font-family="Helvetica Nene">
-          Slogon here
+        <mj-text>Best Regards,</mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-family="Inspiration" font-weight="bold" font-size="20px">
+          Elias Everett
+          <mj-raw>
+            <span style="font-family:'Montserrat'; font-weight: normal; font-size:10px">
+              (Elias Everett)
+            </span>
+          </mj-raw>
         </mj-text>
-        <mj-button background-color="#f63a4d" href="#">Promotion </mj-button>
+        <mj-image width="300px" src="https://s1.328888.xyz/2022/08/08/0ByVk.md.png" alt="" />
       </mj-column>
-    </mj-section>
 
-    <!-- Introduction -->
-    <mj-section background-color="#fafafa">
-      <mj-column width="400px">
-        <mj-text font-size="20px" font-family="Helvetica Neue" color="#626262">
-          This is our company introduction.
-        </mj-text>
-
-        <mj-text color="#525252">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
-        </mj-text>
-
-        <mj-button background-color="#fe5e43" href="#">
-          Learn More
-        </mj-button>
-      </mj-column>
-    </mj-section>
-
-    <!-- Side Image -->
-    <mj-section background-color="white">
-      <!-- Left Image -->
+      <!-- Company name and a short description -->
       <mj-column>
-        <mj-image width="200px" src="https://designspell.files.wordpress.com/2012/01/sciolino-paris-bw.jpg" alt="City" />
-      </mj-column>
-
-
-      <!-- Right paragraph -->
-      <mj-column>
-        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262">
-          Find amazing places
+        <mj-text font-weight="bold">
+          Yingkang Wire Mesh Product Co.,Ltd
         </mj-text>
-        <mj-text color="#525252">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.
+        <mj-spacer height="8px" />
+        <mj-text mj-class="sub-title">
+          A wire mesh manufacturer andexporter in China.
         </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#fbfbfb">
-        <mj-column>
-            <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0l.png" alt="" />
-        </mj-column>
-        <mj-column>
-            <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0l.png" alt="" />
-        </mj-column>
-        <mj-column>
-            <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x0l.png" alt="" />
-        </mj-column>
-    </mj-section>
 
-    <!-- Icons -->
-    <mj-section background-color="#f0f0f0">
-      <mj-column>
-        <mj-social>
-          <mj-social-element name="facebook">
-            Share
+        <!-- Social Media  -->
+        <mj-social mode="vertical">
+          <mj-social-element src="https://s1.328888.xyz/2022/08/10/4fCVk.png">
+            <b>WhatsApp: </b> +1 (513)-341-8074
+          </mj-social-element>
+          <mj-social-element src="https://s1.328888.xyz/2022/08/10/4fB8K.png">
+            <b>Telegram: </b> +1 (513)-341-8074
+          </mj-social-element>
+          <mj-social-element src="https://s1.328888.xyz/2022/08/10/4fbRm.png">
+            <b>Phone: </b> +1 (513)-341-8074
+          </mj-social-element>
+          <mj-social-element src="https://s1.328888.xyz/2022/08/10/4fG67.png">
+            <b>Address: </b> Anhua Road, Anping County, Hebei Province, China
           </mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
+
+    <!-- WhatsApp Button and Telegram Button -->
+    <mj-section padding="0">
+      <mj-column width="200px">
+        <mj-button css-class="shadow" mj-class="round" width="120px" background-color="#25D366" href="https://wa.me/message/EIVAAKKHT3UZE1">
+          WhatsApp
+        </mj-button>
+      </mj-column>
+      <mj-column width="200px">
+        <mj-button css-class="shadow" mj-class="round" width="120px" background-color="#34B7F1" href="https://t.me/sumkux">
+          Telegram
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
   </mj-body>
 </mjml>
