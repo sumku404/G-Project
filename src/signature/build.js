@@ -22,8 +22,6 @@ cleanBuildDirectory();
 sourceFiles.forEach(item => {
 
     let fileBaseName = path.basename(item, '.mjml');
-
-    console.log(fileBaseName)
     
     fs.readFile(item, 'utf-8', (err, data) => {
         if (err) {
