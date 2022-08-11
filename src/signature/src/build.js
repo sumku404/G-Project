@@ -4,8 +4,14 @@ const fs = require("fs");
 
 const path = require("path");
 
+
+/**
+ * For there's only one source file, just linking it directly.
+ */
 const rootFile = __dirname + path.sep + "index.mjml";
 
+
+// Export directory
 const buildDir = "../build/"
 
 
@@ -18,25 +24,32 @@ fs.readFile(rootFile, "utf-8", (err, data) => {
 
     fs.readdir(buildDir, 'utf-8', (err, files) => {
         if (err) {
-            console.error("Clean build folder faild:" + err)
+            console.error("Clean build folder faild:" + err);
             return
         }
 
         files.forEach(item => {
-            fs.unlinkSync(buildDir + item)
+            fs.unlinkSync(buildDir + item);
         })
 
-        // fs.writeFile(path.basename(rootFile, '.mjml') + '.html', htmlCompiledOutput.html, err => {
-        //     if (err) {
-        //         console.error('Export faild:' + err)
-        //         return
-        //     }
-        // })
+        fs.writeFile(renameExportedFile(rootFile), htmlCompiledOutput.html, err => {
+            if (err) {
+                console.error('Export faild:' + err)
+                return
+            }
+        })
 
-        console.log(renameExportedFile(rootFile + buildDir))
     })
 });
 
+/**
+ * 
+ * @param {path} filepath 1 given for source file path
+ * @returns modified file name
+ */
 function renameExportedFile(filepath) {
-    return __dirname + path.basename(filepath, '.mjml') + '.html';
+    return __dirname +
+        path.sep +
+        buildDir +
+        path.basename(filepath, '.mjml').concat('.html');
 }

@@ -64,12 +64,12 @@
     <!-- WhatsApp Button and Telegram Button -->
     <mj-section padding="0">
       <mj-column width="200px">
-        <mj-button css-class="shadow" mj-class="round" width="120px" background-color="#25D366" href="https://wa.me/message/EIVAAKKHT3UZE1">
+        <mj-button mj-class="round" width="120px" background-color="#25D366" href="https://wa.me/message/EIVAAKKHT3UZE1">
           WhatsApp
         </mj-button>
       </mj-column>
       <mj-column width="200px">
-        <mj-button css-class="shadow" mj-class="round" width="120px" background-color="#34B7F1" href="https://t.me/sumkux">
+        <mj-button mj-class="round" width="120px" background-color="#34B7F1" href="https://t.me/sumkux">
           Telegram
         </mj-button>
       </mj-column>
