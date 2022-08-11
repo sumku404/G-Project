@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-title>Email Lite</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Montserrat" />
+      <mj-class name="blue" background-color="#096dd9" />
+      <mj-class name="white" background-color="#ffffff" />
+      <mj-class name="gray-1" background-color="#f5f5f5" />
+      <mj-class name="gray-2" background-color="#bfbfbf" />
+      <mj-class name="title" align="center" font-weight="bold" font-size="20px" />
+    </mj-attributes>
+
+    <mj-style>
+        .full-height {
+            height: 300px !important;
+        }
+    </mj-style>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat" />
+  </mj-head>
+  <mj-body>
+
+
+    <!-- Company title -->
+    <mj-section mj-class="white">
+      <mj-column>
+        <mj-text mj-class="title">
+          Yingkang Wire Mesh Product
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section css-class="full-height" background-url="https://s1.328888.xyz/2022/08/11/603rX.jpg" background-size="100%" background-repeat="no-repeat" padding-right="250px">
+
+      <mj-column>
+
+        <mj-text align="left" color="white" font-size="15px" font-weight="bold" line-height="25px">
+          Yingkang is a wire mesh manufacturer and exporter in China,
+          we have 28 years experience in wire mesh business.
+          We have 200 different machines and 150 teamwork workers, 
+          and our total fixed assets are 20 million US dollars. 
+        </mj-text>
+
+      </mj-column>
+
+
+    </mj-section>
+
+    <mj-section mj-class="gray-2">
+
+    </mj-section>
+  </mj-body>
+</mjml>

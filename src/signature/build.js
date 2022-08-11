@@ -22,13 +22,13 @@ cleanBuildDirectory();
 sourceFiles.forEach(item => {
 
     let fileBaseName = path.basename(item, '.mjml');
-    
+
     fs.readFile(item, 'utf-8', (err, data) => {
         if (err) {
             console.error('Read file faild: ' + err)
             return
         }
-        
+
         //Compile template to raw HTML document
         let htmlCompiledOutput = mjml2html(data); //return an [object], not a string
 

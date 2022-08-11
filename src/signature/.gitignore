@@ -1,5 +1,4 @@
 # Ignore node modules folder
 node_modules/
 
-# Ignore build cache folder
-build/**
+!.gitignore
