@@ -11,6 +11,7 @@
       <mj-class name="purple" background-color="#722ed1" />
       <mj-class name="title" align="left" font-weight="bold" font-size="15px" />
     </mj-attributes>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat" />
     <mj-style inline="inline">
       .body-section {
         -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);

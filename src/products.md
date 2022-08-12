@@ -479,7 +479,7 @@ There're ***11*** Incoterms can be roughly divided into **three groups**:
 
 - Second: CFR, CIF, CPT, CIP (There're the terms under which **the seller pay the main shipping costs** and include them in their price. There's a point that the seller pays for shipping, **the goods travel at the buyer's risk,** so in general the buyer wanna investigate **insurance**.)
 
-- Third: DAT, DAP, DDP (Here, the shipping costs are paid by **the seller** and **the seller assumes all the travel risk**. In these cases, the seller will want to consider
+- Third: DAT, DAP, DDP (Here, the shipping costs are paid by **the seller** and **the seller assumes all the travel risk**.
 
 #### EXW
 
