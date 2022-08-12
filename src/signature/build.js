@@ -50,6 +50,8 @@ sourceFiles.forEach(item => {
 function cleanBuildDirectory() {
     let caches = fs.readdirSync(buildDir, 'utf-8')
     caches.forEach(item => {
-        fs.unlinkSync(buildDir + path.sep + item)
+        if ( item != '.gitignore' ) {
+            fs.unlinkSync(buildDir + path.sep + item)
+        }
     })
 }

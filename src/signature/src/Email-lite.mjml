@@ -3,51 +3,185 @@
     <mj-title>Email Lite</mj-title>
     <mj-attributes>
       <mj-text font-family="Montserrat" />
-      <mj-class name="blue" background-color="#096dd9" />
+      <mj-class name="round" border-radius="20px" />
+      <mj-class name="blue" background-color="#0050b3" />
       <mj-class name="white" background-color="#ffffff" />
-      <mj-class name="gray-1" background-color="#f5f5f5" />
+      <mj-class name="gray-1" background-color="#E7E7E7" />
       <mj-class name="gray-2" background-color="#bfbfbf" />
-      <mj-class name="title" align="center" font-weight="bold" font-size="20px" />
+      <mj-class name="purple" background-color="#722ed1" />
+      <mj-class name="title" align="left" font-weight="bold" font-size="15px" />
     </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
 
-    <mj-style>
-        .full-height {
-            height: 300px !important;
-        }
+      .feature li {
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+      }
+
+      .border {
+        padding: 10px !important;
+      }
     </mj-style>
     <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat" />
   </mj-head>
-  <mj-body>
+  <mj-body css-class="border" mj-class="gray-1" width="600px">
 
-
-    <!-- Company title -->
-    <mj-section mj-class="white">
-      <mj-column>
-        <mj-text mj-class="title">
-          Yingkang Wire Mesh Product
+    <!-- Top image -->
+    <mj-section full-width="full-width" mj-class="white" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://s1.328888.xyz/2022/08/08/0ByVk.png" alt="" align="center" width="200px" />
+        <mj-text font-weight="bold" align="center" text-transform="uppercase">
+          Wire Mesh Product, Fence
         </mj-text>
+        <mj-image src="https://s1.328888.xyz/2022/08/12/6cJDy.png" alt="" width="600px" padding="0" />
       </mj-column>
     </mj-section>
 
-
-    <mj-section css-class="full-height" background-url="https://s1.328888.xyz/2022/08/11/603rX.jpg" background-size="100%" background-repeat="no-repeat" padding-right="250px">
-
-      <mj-column>
-
-        <mj-text align="left" color="white" font-size="15px" font-weight="bold" line-height="25px">
-          Yingkang is a wire mesh manufacturer and exporter in China,
-          we have 28 years experience in wire mesh business.
-          We have 200 different machines and 150 teamwork workers, 
-          and our total fixed assets are 20 million US dollars. 
-        </mj-text>
-
+    <!-- Bottom image -->
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://s1.328888.xyz/2022/08/12/6ct5C.png" alt="" width="600px" padding="0" />
       </mj-column>
-
-
     </mj-section>
 
-    <mj-section mj-class="gray-2">
+    <!-- Body Content -->
+    <mj-wrapper css-class="body-section fixed-width" padding-top="0" padding-bottom="0">
+      <mj-section mj-class="white">
+        <mj-column width="100%">
+          <mj-text mj-class="title">
+            Crowd Control Barrier Sales
+          </mj-text>
 
-    </mj-section>
+          <mj-text>Hi, there</mj-text>
+
+          <!-- main content -->
+          <mj-text>
+            I'm so glad to hear you're in the market for Mesh Product.
+            I'd like to take this opportunity to introduce our company and product,
+            with the hope that we may work together in the future.
+          </mj-text>
+
+          <mj-text>
+            This is Elias from Ying Kang Wire Mesh Manufacturer,
+            which has specializing in Wire Mesh Products for 28 years.
+            I'd like to introduce this item to you, Anti Climb Fence(358 Fence),
+            and its features have
+          </mj-text>
+
+          <mj-text css-class="feature">
+            <ul>
+              <li>Stop unauthorised persons from entering your property</li>
+              <li>Anti theif</li>
+              <li>Preventing climbing or scaling</li>
+              <li>Corrosion-resistant</li>
+            </ul>
+          </mj-text>
+
+          <mj-text>
+            if you want to know more details about our products,please contact with me,
+            looking forward to work with you on this.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Social Media Button -->
+      <mj-section mj-class="white">
+        <mj-column width="50%">
+          <mj-button mj-class="round" width="120px" background-color="#25D366" href="https://wa.me/message/EIVAAKKHT3UZE1">
+            WhatsApp
+          </mj-button>
+
+        </mj-column>
+        <mj-column width="50%">
+          <mj-button mj-class="round" width="120px" background-color="#34B7F1" href="https://t.me/sumkux">
+            Telegram
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- divider -->
+      <mj-section mj-class="white" padding="0 10px 0 10px">
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="1px" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section mj-class="white">
+        <mj-column width="100%">
+          <mj-text mj-class="title">
+            Waiting for you reply :)
+          </mj-text>
+          <mj-text>
+            More details, please replay to this email or start chatting right now by clicking the buttons above.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Address -->
+      <mj-section mj-class="white" padding-top="0">
+        <mj-column width="50%" vertical-align="middle">
+          <mj-social mode="vertical" align="center">
+            <mj-social-element src="https://s1.328888.xyz/2022/08/10/4fG67.png">
+              <b>Address: </b> Anhua Road, Anping County, Hebei Province, China
+            </mj-social-element>
+            <mj-social-element name="web" href="https://www.wirenetting-china.com/">
+              <b>Website: </b>https://www.wirenetting-china.com/
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+
+
+        <!-- Contact information -->
+        <mj-column width="50%">
+          <mj-text mj-class="title">
+            Contact Information
+          </mj-text>
+
+          <mj-text>
+            WhatsApp: +1 (513)-341-8074
+          </mj-text>
+
+          <mj-text>
+            Telegram: +1 (513)-341-8074
+          </mj-text>
+
+          <mj-text>
+            Phone: +1 (513)-341-8074
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+    <!-- Email Footer -->
+    <mj-wrapper>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-social align="center" padding="0">
+            <mj-social-element name="linkedin" background-color="#A1A0A0"></mj-social-element>
+            <mj-social-element name="facebook" background-color="#A1A0A0"></mj-social-element>
+            <mj-social-element name="twitter" background-color="#A1A0A0"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+
+      <!-- Copyright -->
+      <mj-section padding-top="0">
+        <mj-column width="100%">
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            &copy; Hebei Yingkang Wire Mesh Product Co., Ltd. All Rights Reserved
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
   </mj-body>
 </mjml>

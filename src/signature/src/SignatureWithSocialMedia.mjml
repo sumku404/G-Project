@@ -9,7 +9,7 @@
     <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat" />
     <mj-style>
       .shadow td{
-        box-shadow: 2px 6px 13px 8px rgba(0, 0, 0, 0.09) !important;
+        box-shadow: 2px 5px 13px 8px rgba(0, 0, 0, 0.09) !important;
       }
     </mj-style>
   </mj-head>
