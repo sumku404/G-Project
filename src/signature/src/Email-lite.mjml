@@ -2,7 +2,7 @@
   <mj-head>
     <mj-title>Email Lite</mj-title>
     <mj-attributes>
-      <mj-text font-family="Montserrat" />
+      <mj-text font-family="Century Gothic, Futura, sans-serif" />
       <mj-class name="round" border-radius="20px" />
       <mj-class name="blue" background-color="#0050b3" />
       <mj-class name="white" background-color="#ffffff" />
@@ -28,7 +28,6 @@
         padding: 10px !important;
       }
     </mj-style>
-    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat" />
   </mj-head>
   <mj-body css-class="border" mj-class="gray-1" width="600px">
 
@@ -81,6 +80,11 @@
               <li>Preventing climbing or scaling</li>
               <li>Corrosion-resistant</li>
             </ul>
+          </mj-text>
+
+          <mj-text>
+            In surface treatment, we used High-quality Zinc to galvanize the fence.
+            And other processes were disposed of by the expert in hands.
           </mj-text>
 
           <mj-text>

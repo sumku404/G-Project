@@ -76,7 +76,7 @@
 
 <img title="" src="https://s.alicdn.com/@sc02/kf/HTB1Ev7aKf9TBuNjy1zbq6xpepXa2/204980290/HTB1Ev7aKf9TBuNjy1zbq6xpepXa2.jpg?quality=close" alt="Roll Top Fence" style="display: block; margin: 0 auto;" width="500px" data-align="center">
 
-- **Alias:** Roll Top Triangle Fence
+- **Alias:** Roll Top Triangle Fence, BRC Fence
 - **Usage:** Highway Fence, Railway Fence, Airport Fence, Port Fence, Garden Fence, .etc **customized**
 - **Wire Diameter:** 5mm
 - **Opening Size / Aperture:** 50*150mm
@@ -134,6 +134,16 @@ Post: (Only Round Post)
 Accessories (Fittings):
 
 <img title="" src="https://spauldingfencesupply.com/wp-content/uploads/2014/03/fittings-List.jpg" alt="accessories" style="width: 40%; display: block; margin: 0 auto;" width="550px" data-align="center">
+
+Edge types:
+
+1. BARB / BARB SELVEDGE **(short: BB)**
+
+2. KNUCKLE / KUNCKLE SELVEDGE **(short: KK)**
+
+3. KNUCKLE / BARB SELVEDGE **(short: KB)**
+
+<img src="https://s3.328888.xyz/2022/08/15/TvQKs.png" title="" alt="chain-link-fence" width="653">
 
 ---
 
