@@ -1,0 +1,180 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="Century Gothic, Futura, sans-serif" line-height="20px"/>
+      <mj-class name="white" background-color="#ffffff" />
+      <mj-class name="gray" background-color="#f5f5f5" />
+      <mj-class name="title" align="left" font-weight="bold" font-size="15px" />
+      <mj-class name="round" border-radius="20px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-content {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+
+      .feature li {
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+      }
+
+      .signature {
+        display: inline-block !important;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-weight: bold;
+      }
+
+      .signature-others {
+        display: inline-block !important;
+        margin-top: 5px;
+      }
+
+      .border {
+        margin: 10px !important;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body mj-class="white" css-class="border">
+    <!-- Company Logo and Title -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image src="https://s1.328888.xyz/2022/08/08/0ByVk.png" alt="company-logo" width="200px" align="left" />
+        <mj-text font-size="20px" font-weight="bold">
+          Hebei Yingkang Wire Mesh Product Co.,Ltd
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="5px 20px 5px 20px">
+
+    </mj-wrapper>
+    <!-- Email Content -->
+    <mj-wrapper border-radius="25px" css-class="body-content">
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text>Hi, there</mj-text>
+
+          <!-- main content -->
+          <mj-text>
+            I'm so glad to hear you're in the market for Mesh Product.
+            I'd like to take this opportunity to introduce our company and product,
+            with the hope that we may work together in the future.
+          </mj-text>
+
+          <mj-text>
+            This is <b>Elias</b> from Ying Kang Wire Mesh Manufacturer,
+            which has specializing in Wire Mesh Products for 28 years.
+            I'd like to introduce this item to you, <b>Iron Fence/Steel Fence</b>,
+            and its features have
+          </mj-text>
+
+          <mj-text css-class="feature">
+            <ul>
+              <li>low-maintenance</li>
+              <li>providing a lifetime of beauty and protection with little effort or additional expense on your part.</li>
+            </ul>
+          </mj-text>
+
+          <mj-text>
+            In surface treatment, we used <b>High-quality Zinc</b> to galvanize the fence.
+            And other processes were disposed of by the expert in hands. All the products
+            are strictly produced and inspected under <b>ISO 9001</b> standard, and sell well
+            to more than <b>30 countries of the world</b>. And of course, we offer
+            <b>FREE SAMPLE</b>.
+          </mj-text>
+
+          <mj-text>
+            If you want to know more details about our products, please contact with me.
+            Looking forward to working with you on this.
+          </mj-text>
+
+
+          <mj-text>
+            Best Regards, <br />
+            <span class="signature-others">Fence Department</span> <br />
+            <span class="signature">Elias Everett (Sales Manager)</span>
+          </mj-text>
+
+        </mj-column>
+
+
+      </mj-section>
+
+      <!-- Divider  -->
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="3px" />
+        </mj-column>
+      </mj-section>
+
+      <!-- <mj-section mj-class="white">
+        <mj-column width="50%">
+          <mj-button mj-class="round" width="120px" background-color="#25D366" href="https://wa.me/message/EIVAAKKHT3UZE1">
+            WhatsApp
+          </mj-button>
+
+        </mj-column>
+        <mj-column width="50%">
+          <mj-button mj-class="round" width="120px" background-color="#34B7F1" href="https://t.me/sumkux">
+            Telegram
+          </mj-button>
+        </mj-column>
+      </mj-section> -->
+
+      <mj-section mj-class="white">
+        <mj-column width="100%">
+          <mj-text mj-class="title">
+            Waiting for you reply :)
+          </mj-text>
+          <mj-text>
+            More details, please replay to this email or start chatting right now by clicking the buttons above.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text mj-class="title">
+            Contact Information
+          </mj-text>
+
+          <mj-text>
+            WhatsApp: +1 (513)-341-8074
+          </mj-text>
+
+          <mj-text>
+            Telegram: +1 (513)-341-8074
+          </mj-text>
+
+          <mj-text>
+            Phone: +1 (513)-341-8074
+          </mj-text>
+          <mj-social mode="vertical" align="left">
+            <mj-social-element src="https://s1.328888.xyz/2022/08/10/4fG67.png">
+              <b>Address: </b> Anhua Road, Anping County, Hebei Province, China
+            </mj-social-element>
+            <mj-social-element name="web" href="https://www.wirenetting-china.com/">
+              <b>Website: </b>https://www.wirenetting-china.com/
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper>
+      <!-- CopyRight -->
+      <mj-section padding-top="0">
+        <mj-column width="100%">
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            &copy; Hebei Yingkang Wire Mesh Product Co., Ltd. All Rights Reserved
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Footer -->
+  </mj-body>
+</mjml>
