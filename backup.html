@@ -1,0 +1,190 @@
+<div id="rubric">Reading word lists</div>
+<div class='word'>{{Word}}</div>
+	{{Sound_Word}}
+<hr>
+<div class='symbol'>[{{Phonetic symbol}}]</div>
+<br/>
+<div style='font-family: Arial; font-size: 20px;'>{{Image}}</div>
+
+
+<!-- back -->
+<div class='word'>{{Word}}</div>
+<hr>
+{{Image}}
+
+<div class='part-of-speech'>{{Part of Speech}}.
+	<span id='part-of-speech'>[{{Type[Informal|Formal]}}]</span>
+</div>
+<hr>
+<div class='meaning'>
+	&nbsp;→&nbsp<b>Meaning:</b>
+	<span>{{Meaning}}</span>
+</div>
+<hr>
+<div class='example'>
+	<span id='title'>&nbsp;→&nbsp;<b>Example-1:</b></span>
+	<span id='content'>{{Example-1}}</span>
+</div>
+<hr>
+<div class='example'>
+	<span id='title'>&nbsp;→&nbsp;<b>Example-2:</b></span>
+	<span id='content'>{{Example-2}}</span>
+</div>
+
+<div>
+	{{Sound_Word}}
+	{{Sound_Example-1}}
+	{{Sound_Example-2}}
+</div>
+
+
+{{#Remark}}
+	<hr>
+	<div class='remark'>
+		<span class='remark-title'>&nbsp;→&nbsp;<b>Remark:</b></span>
+		<div class='remark-content'>{{Remark}}</div>
+	</div>
+
+{{/Remark}}
+
+
+<!-----------------------------------JavaScript------------------------------------------->
+<script type="text/javascript">
+
+	var cont = {{Type[Informal|Formal]}};
+	var prop = document.getElementById('part-of-speech');
+	if( cont == true ) {
+		prop.innerText = '[' + 'formal' + ']';
+		prop.setAttribute('class','type-formal');
+	}else{
+		prop.innerText = '[' + 'informal' + ']';
+		prop.setAttribute('class','type-informal');
+	}
+
+
+	
+</script>
+
+
+<!-- style -->
+
+:root {
+	--gray:#bfbfbf;
+	--light-red:#ff7875;
+	--shadow-1:0px 6px 16px -8px rgba(0, 0, 0, 0.08),
+			 0px 9px 28px 0 rgba(0, 0, 0, 0.05),
+			 0px 12px 48px 16px rgba(0, 0, 0, 0.03);
+	--shadow-2:0px 1px 2px -2px rgba(0, 0, 0, 0.16),
+			   0px 3px 6px 0px rgba(0, 0, 0, 0.12),
+			   0px 5px 12px 4px rgba(0, 0, 0, 0.09);
+}
+
+.card {
+ font-family: arial;
+ font-size:150%;
+ text-align: center;
+ color: Black;
+ background-color:#ffffff;
+}
+
+#rubric {
+  text-align: left;
+  padding: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+  background: #1890ff;
+  color: white;
+  font-weight: 500;
+}
+
+img{
+	max-width:100%;
+	height:auto;
+    width:300px;
+	box-shadow:var(--shadow-2);
+	border: 3px solid #ffffff;
+}
+
+button {
+	width: 100px;
+	min-heigh: 20px;
+	
+}
+.word {
+	color:#000000;
+	font-size:20pt;
+}
+
+.symbol {
+	color:#bfbfbf;
+	font-size:20pt;
+}
+
+.part-of-speech {
+	color:#597ef7;
+}
+
+.type-formal {
+	color:#52c41a;
+}
+
+.type-informal {
+	color:#13c2c2;
+}
+
+.meaning {
+	text-align:left;
+	color:#40a9ff;
+}
+
+.example {
+	text-align:left;
+}
+
+.example > span[id='content'] {
+	color:#8c8c8c;
+}
+
+.remark {
+	text-align:left;
+}
+
+.remark-title {
+	color:red;
+}
+
+.remark-content {
+	text-align:left;
+	margin-left:10px;
+	font-size:16pt;
+	color:#40a9ff;
+}
+
+.remark-content  li{
+	color: black;
+}
+
+blockquote {
+	background-color:#f5f5f5;
+	border-left:5px solid #bfbfbf;
+	padding-left:6px;
+	font-size:15pt;
+	color:#434343;
+}
+
+.nightMode .example > span[id='title'] {
+	color:var(--gray)
+}
+
+.nightMode .word {
+	color:var(--gray)
+}
+
+.nightMode .remark-title {
+	color:var(--light-red)
+}
+
+.nightMode, .remark-content li {
+	color:var(--gray);
+}

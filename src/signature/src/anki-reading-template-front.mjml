@@ -1,0 +1,102 @@
+<mjml>
+  <mj-head>
+    <mj-title>Reading List Template</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Century Gothic, Futura, sans-serif" />
+      <mj-section padding="5px" />
+      <mj-class name="white" background-color="#ffffff" />
+      <mj-class name="gray" background-color="#f5f5f5" />
+      <mj-class name="title" align="left" font-weight="bold" font-size="15px" />
+      <mj-class name="header" align="left" font-weight="bold" font-size="15px" />
+      <mj-class name="word" color="#096dd9" font-weight="bold" font-size="16px" />
+      <mj-class name="phonetic" color="#262626" font-size="16px" />
+    </mj-attributes>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat" />
+    <mj-style inline="inline">
+      .root {
+      margin: 0px !important;
+      }
+
+      .shadow {
+      -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+
+      .image {
+      display: block;
+      margin: 1px !important;
+      padding: 5px !important;
+      }
+
+      .image > img{
+      -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      border-radius: 20px;
+
+      }
+
+      .phonetic {
+      color: #000000;
+      font-weight: normal;
+      }
+
+      .word-tips-title {
+      width: 50px;
+      font-size: 18px;
+      padding: 5px 13px;
+      border-radius: 10px;
+      display: inline-block;
+      background-color: #0059fb;
+      color: #ffffff;
+      text-align: center;
+      }
+
+      .word-tips {
+      border: 1px solid #d9d9d9;
+      border-radius: 5px;
+      display: block;
+      margin: 20px;
+      }
+
+
+      .header {}
+
+      .quoto {}
+    </mj-style>
+  </mj-head>
+  <mj-body css-class="root">
+
+    <!-- Front header -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text mj-class="header" align="left">
+          Vocabulary Review
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Front image section -->
+    <mj-section css-class="image-section" text-align="center">
+      <mj-column width="100%">
+        <mj-text align="center">
+          <div class="image">{{Image}}</div>
+        </mj-text>
+        <mj-divider border-width="3px" border-color="#DFE3E8" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Front word section -->
+    <mj-section css-class="word-section">
+      <mj-column width="100%">
+        <mj-text mj-class="word" align="center">
+          {{Word}} <span class="phonetic">[{{Phonetic symbol}}]</span>
+        </mj-text>
+        <mj-text align="center">
+          {{Sound-word}}
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
